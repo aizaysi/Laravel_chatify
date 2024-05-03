@@ -10,7 +10,7 @@ This is a Laravel demo app for [Chatify](https://github.com/munafio/chatify).
 -   Create database and modify .env with your DB name and Pusher credentials.
 -   `php artisan migrate --seed`
 -   `php artisan key:generate`
--   `npm install && npm run dev`
+-   `npm install && npm install -D && npm run dev`
 -   `php artisan storage:link`
 -   `php artisan serve`
 
